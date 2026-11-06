@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-P03",
+  "repository": "icb-p03-pathways-stackable-credentials",
+  "repository_url": "https://github.com/ICoBC/icb-p03-pathways-stackable-credentials",
+  "title": "Pathways and Stackable Credentials",
+  "subtitle": "Connecting credentials into routes that lead to roles and qualifications.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Credential design",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-CRDS-L3-A",
+  "badge_name": "Pathways and Stackable Credentials (Ability, L3)",
+  "hours": "8",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p03/",
+  "parts": [
+    "About this course",
+    "Why pathways",
+    "Stacking models",
+    "Rules and recognition",
+    "Pathways in metadata",
+    "Testing the pathway with learners",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 20
+}
